@@ -139,3 +139,7 @@ a.frame:hover{transform:translateY(-3px);border-color:var(--accent)}
 .sk .label{color:#D98A63}
 .sk .skills p{color:#EDE3D1}
 .sk footer{border-color:#4A3D31;color:#B5A893}
+
+/* v6 lighter hero */
+.band{background-color:#3A2F26}
+.band a,.sk .label{color:#E39A74}.band a:hover{color:#F2BC9F}
