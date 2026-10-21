@@ -125,3 +125,17 @@ a.frame:hover{transform:translateY(-3px);border-color:var(--accent)}
 .gallery{grid-template-columns:repeat(auto-fill,300px);justify-content:center;max-width:640px;margin:24px auto 0}
 .gallery .pfig{max-width:300px}
 @media (max-width:760px){.list.marks a{grid-template-columns:56px 1fr}.list.marks .n{display:none}.list.marks .mark{width:56px;height:56px}.gallery{grid-template-columns:1fr}.gallery .pfig{max-width:100%}}
+
+/* v5 light games, dark skills */
+.gband{background:#E6DAC6;border-top:1px solid #D4C5AB;border-bottom:1px solid #D4C5AB}
+.gband .games .shead{border-color:#221B15}
+.gband .gcard{color:#221B15!important}
+.gband .gcard h3{color:#221B15}
+.gband .gcard .label{color:#9C4A2A}
+.gband .gcard p{color:#5E5347}
+.gband .ph{border-color:#CDBEA4;background:#F8F3EA}
+.sk{padding-bottom:8px}
+.sk .shead{border-color:#6A5A49}
+.sk .label{color:#D98A63}
+.sk .skills p{color:#EDE3D1}
+.sk footer{border-color:#4A3D31;color:#B5A893}
